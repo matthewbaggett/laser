@@ -1,0 +1,4 @@
+plywood 3mm:
+    15% power
+    15mm/s
+    2 passes
